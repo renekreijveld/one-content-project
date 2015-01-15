@@ -1,0 +1,9 @@
+[submodule "components/com_one"]
+	path = components/com_one
+	url = https://github.com/pdelbar/one-content-site-component.git
+[submodule "plugins/system/one"]
+	path = plugins/system/one
+	url = https://github.com/pdelbar/one-content-system-plugin.git
+[submodule "media/one"]
+	path = media/one
+	url = https://github.com/pdelbar/one-content-sample-custom.git
